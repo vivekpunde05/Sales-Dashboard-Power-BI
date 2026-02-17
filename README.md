@@ -20,7 +20,7 @@ This project is an interactive Sales Dashboard built using Power BI.
 - Interactive Slicers (Region & Date)
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](D:\Power BI\Sales Dashboard\Dashboard_screenshort.png)
 
 ## 🚀 Insights
 - Identified high-performing regions
